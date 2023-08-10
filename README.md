@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishani Malviya</h1>
 <h3 align="center">Tech Enthusiast on a Mission: Exploring, Learning, and Problem Solving ⚡</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align = "right" alt = "coding" width = "400" src = "[https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHTs7OjlL7Gzq1TAXQyeQmU1BoKl6aQqj8zR13RGn01PBgLvzp-sFMVeHu6tdRtWWTJ8&usqp=CAU)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishhanayy&label=Profile%20views&color=0e75b6&style=flat" alt="ishhanayy" /> </p>
 
