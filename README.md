@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishani Malviya</h1>
 <h3 align="center">Tech Enthusiast on a Mission: Exploring, Learning, and Problem Solving ⚡</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishhanayy&label=Profile%20views&color=0e75b6&style=flat" alt="ishhanayy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishhanayy&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 - 📫 How to reach me **ishanimalviya333@gmail.com**
 
