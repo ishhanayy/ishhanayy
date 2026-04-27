@@ -6,13 +6,10 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Would love to connect with you ⭐</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/ishani-malviya-83364023b" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ishhanayy" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
